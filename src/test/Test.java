@@ -13,5 +13,6 @@ public class Test {
      String userValue = sc.next();
      System.out.println("User added values : "+userInput);
      System.out.println("User added String : "+userValue);
+     System.out.println("Testing Commit");
     }
 }
