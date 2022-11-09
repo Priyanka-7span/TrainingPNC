@@ -7,7 +7,7 @@ public class LeetCode {
         for(int i=0;i>=n;i++){
                 System.out.print(i);
             }
-            //System.out.println(i);
+            System.out.println("Hello");
         }
     }
 
